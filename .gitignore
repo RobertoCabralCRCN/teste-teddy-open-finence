@@ -1,0 +1,14 @@
+node_modules
+package-lock.json
+yarn.lock
+coverage/**
+yarn-error.log
+
+
+# esbuild directories
+.esbuild
+
+package-lock.json
+
+# others
+.vscode/
