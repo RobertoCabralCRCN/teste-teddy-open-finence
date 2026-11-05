@@ -3,7 +3,7 @@
   "host": "localhost",
   "port": 5432,
   "username": "postgres",
-  "password": "Hos32575@",
+  "password": "PssWord",
   "database": "teste-teddy-open-finence",
   "entities": ["src/entities/**/*.ts"],
   "migrations": ["src/shared/typeorm/migrations/*.ts"],
